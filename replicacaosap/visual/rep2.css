@@ -1,0 +1,41 @@
+.Cbcr{
+    background-color:gray;
+    font-size: 15px;
+    display: flex;
+    font-weight: bold;
+}
+.Btt1{
+ background-color:gray;
+ display: inline-flex;
+}
+#SubtitleTable{
+    text-align: center;
+}
+.Table{
+  display: inline-flex;
+  word-spacing:100px;  
+}
+.TexTable{
+    display: inline-flex;
+    word-spacing: 30px;
+    ;
+}
+
+.Center{
+    display:block;
+    ;
+}
+.Btt2{
+    display:flex;
+}
+.Button3{
+    display:inline-flex;
+}
+.ButtonInput{
+    display: block;
+    align-items: center;
+}
+.ButtonInput2{
+    display: block;
+    align-items: center;
+}
